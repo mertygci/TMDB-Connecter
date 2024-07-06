@@ -2,9 +2,9 @@
 This Laravel project fetches data from The Movie Database (TMDB) API and seeds it into the local database. The project includes models, repositories, services, and seeders for handling series, seasons, and episodes.
 
 # Requirements
-- PHP >= 7.3
+- PHP >= 8.1
 - Composer
-- Laravel >= 8.x
+- Laravel >= 10.x
 - TMDB API Key
 
 # Installation
