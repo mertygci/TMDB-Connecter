@@ -4,7 +4,7 @@ This Laravel project fetches data from The Movie Database (TMDB) API and seeds i
 # Requirements
 - PHP >= 8.1
 - Composer
-- Laravel >= 10.x
+- Laravel >= 10
 - TMDB API Key
 
 # Installation
