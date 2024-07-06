@@ -6,6 +6,9 @@ use App\Http\Controllers\SeasonController;
 use App\Http\Controllers\EpisodeController;
 use App\Http\Controllers\MovieController;
 
+Route::get('/', function () {
+    return view('welcome');
+});
 
 // Movies Routes
 Route::prefix('/movies')->name('movies.')->group(function (){
