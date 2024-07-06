@@ -33,7 +33,6 @@ return [
 
     'tmdb' => [
         'api_key' => env('TMDB_API_KEY'),
-        'public_api_key' => env('TMDB_PUBLIC_API_KEY'),
     ]
 
 ];
